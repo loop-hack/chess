@@ -57,3 +57,7 @@ margin: 0;
     height: 80px;
     width: 80px;
   }
+.pieces:hover{
+  transform: scale(1.1);
+  transition: 0.2s;
+}
